@@ -10,27 +10,29 @@ tModLoader (TML) - это open-source модификация для Terraria, п
 <img src="http://i.imgur.com/kdcROYP.png"/>
 </p>
 
-## Инструкции
+## Инструкции (Steam)
 
-### Установка (Steam):
+### Установка:
 - Скачайте архив [из последнего релиза](https://github.com/Alexey-Proger/tModLoader-winarm/releases/latest)
 - Установите Terraria и tModloader из Steam
 - Распакуйте архив в папку установленного tModLoader из Steam с заменой всех файлов
 - Запустите start-tModLoader.bat и немного подождите
 - Готово!
 
-### Установка (GoG):
+### Установка модов:
+- Скачайте моды из мастерской Steam Workshop
+- Запустите tModLoader, откройте Мастерская => Управление модами и включите ваши моды
+- Готово!
+
+## Инструкции (GoG)
+
+### Установка:
 - Скачайте и распакуйте архив [из последнего релиза](https://github.com/Alexey-Proger/tModLoader-winarm/releases/latest)
 - Установите Terraria (поддерживается только GoG Terraria, Terraria.exe должен находится в C:\GOG Games\Terraria)
 - Запустите start-tModLoader.bat и немного подождите
 - Готово!
 
-### Установка модов (Steam):
-- Скачайте моды из мастерской Steam Workshop
-- Запустите tModLoader, откройте Мастерская => Управление модами и включите ваши моды
-- Готово!
-
-### Установка модов (GoG/ручная установка):
+### Установка модов:
 - Скачайте моды (файлы .tmod)
 - Скопируйте моды в C:\Users\%имя пользователя%\Documents\My Games\Terraria\tModLoader\Mods
 - Запустите tModLoader, откройте Мастерская => Управление модами и включите ваши моды
