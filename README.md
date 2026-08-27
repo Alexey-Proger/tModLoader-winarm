@@ -12,9 +12,16 @@ tModLoader (TML) is an open-source, community-driven, modification and expansion
 
 ## Instructions
 
-### Installation:
+### Steam installation:
+- Download archive from [latest release](https://github.com/Alexey-Proger/tModLoader-winarm/releases/latest)
+- Install Terraria and tModLoader from Steam
+- Unpack archive to Steam tModloader folder (replace all files)
+- Launch start-tModLoader.bat or desktop shortcut and wait
+- Done!
+
+### GoG installation:
 - Download and unpack archive from [latest release](https://github.com/Alexey-Proger/tModLoader-winarm/releases/latest)
-- Install Terraria (only GoG Terraria supported, Terraria.exe should be present in C:\GOG Games\Terraria)
+- Install Terraria (Terraria.exe should be present in C:\GOG Games\Terraria)
 - Launch start-tModLoader.bat and wait
 - Done!
 
@@ -25,7 +32,7 @@ tModLoader (TML) is an open-source, community-driven, modification and expansion
 - Done!
 
 ## Source code:
-### You can find source code [in this repository](https://github.com/Alexey-Proger/tModLoader-arm/tree/stable)
+### You can find source code [in this repository](https://github.com/Alexey-Proger/tModLoader-arm)
 
 ## License
 TML is licensed under the [MIT license](https://github.com/tModLoader/tModLoader/blob/master/LICENSE)
